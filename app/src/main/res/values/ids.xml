@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="BTNblink" type="id" />
+    <item name="BTNrotate" type="id" />
+    <item name="BTNfade" type="id" />
+    <item name="BTNmove" type="id" />
+    <item name="BTNslide" type="id" />
+    <item name="BTNzoom" type="id" />
+    <item name="BTNstop" type="id" />
+</resources>
